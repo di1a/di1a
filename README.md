@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @di1a
+- 👋 Hi, I’m di1a
 - 👀 I’m interested in application programming
 - 🌱 I’m currently learning Java SE
 
